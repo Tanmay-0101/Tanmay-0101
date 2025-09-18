@@ -13,7 +13,7 @@ Passionate about **Full-Stack Development, Competitive Programming & Federated L
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 - [**WanderDost**](https://github.com/Tanmay-0101/WanderDost) – Full-stack travel platform with maps, auth, Cloudinary, and deployment.  
 - [**Climate Insights Dashboard**](https://github.com/Tanmay-0101/Climate-Insights-Dashboard) – React + Vite weather insights dashboard with Material UI & live demo.  
 - [**Secure Federated Learning**](https://github.com/Tanmay-0101/Secure_FL_DRDO) – Research project using Shamir’s Secret Sharing & SMPC to secure federated learning.  
