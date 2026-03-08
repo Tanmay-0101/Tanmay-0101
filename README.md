@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanmay Tyagi  
 
 Final-year B.Tech student at **IIT (BHU), Varanasi**  
-**Amazon SDE Intern '25** | Aspiring Software Engineer  
+**Amazon SDE Intern '25** | Software Engineering Enthusiast
 Passionate about **Full-Stack Development, Competitive Programming & Federated Learning**  
 
 ---
