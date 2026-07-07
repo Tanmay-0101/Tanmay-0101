@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tanmay Tyagi  
+# Hi, I'm Tanmay Tyagi  
 
 Final-year B.Tech student at **IIT (BHU), Varanasi**  
 **Amazon SDE Intern '25** | Software Engineering Enthusiast                                                                                     
